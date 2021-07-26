@@ -1,0 +1,10 @@
+C:\Users\savaş\source\repos\Kitaplik_test\Kitaplik_test\bin\Debug\Kitaplik_test.exe.config
+C:\Users\savaş\source\repos\Kitaplik_test\Kitaplik_test\bin\Debug\Kitaplik_test.exe
+C:\Users\savaş\source\repos\Kitaplik_test\Kitaplik_test\bin\Debug\Kitaplik_test.pdb
+C:\Users\savaş\source\repos\Kitaplik_test\Kitaplik_test\obj\Debug\Kitaplik_test.csprojAssemblyReference.cache
+C:\Users\savaş\source\repos\Kitaplik_test\Kitaplik_test\obj\Debug\Kitaplik_test.Form1.resources
+C:\Users\savaş\source\repos\Kitaplik_test\Kitaplik_test\obj\Debug\Kitaplik_test.Properties.Resources.resources
+C:\Users\savaş\source\repos\Kitaplik_test\Kitaplik_test\obj\Debug\Kitaplik_test.csproj.GenerateResource.cache
+C:\Users\savaş\source\repos\Kitaplik_test\Kitaplik_test\obj\Debug\Kitaplik_test.csproj.CoreCompileInputs.cache
+C:\Users\savaş\source\repos\Kitaplik_test\Kitaplik_test\obj\Debug\Kitaplik_test.exe
+C:\Users\savaş\source\repos\Kitaplik_test\Kitaplik_test\obj\Debug\Kitaplik_test.pdb
