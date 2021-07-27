@@ -4,7 +4,7 @@
  The app where you can register and list the book
  
 ## How Does it Work?
-** When we open our application, we can see the previously saved books and their authors. **
+** When we open our application, we can see the previously saved books and their authors. 
 ![1](https://user-images.githubusercontent.com/71839049/127131078-c2d9b786-7613-4630-9923-e389386fcb2a.PNG)
 
 ** We write the name of the author we want to add and the name of my book and press the kaydet(save) button.. **
